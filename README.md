@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A Junior Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Angular and Java**
+- 🌱 I’m currently learning **Angular and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://danielepuleri.netlify.app/](https://danielepuleri.netlify.app/)
 
