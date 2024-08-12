@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://danielepuleri.netlify.app/](https://danielepuleri.netlify.app/)
 
-- 📫 How to reach me **danielepuleri97@gmail.com**
+- 📫 How to reach me **dpuleri.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
