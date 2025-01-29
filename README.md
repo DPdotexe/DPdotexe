@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://danielepuleri.netlify.app/](https://danielepuleri.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dpuleri.netlify.app/])
 
 - 📫 How to reach me **dpuleri.dev@gmail.com**
 
